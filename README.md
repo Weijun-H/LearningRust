@@ -9,6 +9,6 @@ Personal diary for learning Rust🦀. This summer is a good time to learn rust. 
 ### 2022/07/01
 Because I started to learn rust a few days ago, I have read  chapter 2.8 in [*Rust Course*](https://course.rs/basic/trait/trait.html) now. Addtionally, I completed the relative exercises in [rustlings](https://github.com/Weijun-H/rustlings).
 ### 2022/07/02
-- [ ] generics-traits
-- [ ] collections
-- [ ] type-conversions
+- [x] generics-traits -- `need to review later`
+- [x] collections
+- [x] type-conversions -- `need to review later`
