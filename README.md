@@ -12,3 +12,6 @@ Because I started to learn rust a few days ago, I have read  chapter 2.8 in [*Ru
 - [x] generics-traits -- `need to review later`
 - [x] collections
 - [x] type-conversions -- `need to review later`
+### 2022/07/03
+- [x] return value and panic
+- [x] crate and module 
