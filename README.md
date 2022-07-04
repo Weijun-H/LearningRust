@@ -15,3 +15,6 @@ Because I started to learn rust a few days ago, I have read  chapter 2.8 in [*Ru
 ### 2022/07/03
 - [x] return value and panic
 - [x] crate and module 
+### 2022/07/04
+- [x] complete fundamental part of [*Rust Course*](https://course.rs/basic/trait/trait.html)
+- [x] redo [rustlings](https://github.com/Weijun-H/rustlings)
