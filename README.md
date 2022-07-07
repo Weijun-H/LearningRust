@@ -20,3 +20,6 @@ Because I started to learn rust a few days ago, I have read  chapter 2.8 in [*Ru
 - [x] redo [rustlings](https://github.com/Weijun-H/rustlings)
 ### 2022/07/05
 - [x] rustlings 41/84
+### 2022/07/07
+- [x] rustling 80/84
+I plan to complete rustlings this week and start risc-v next week.
