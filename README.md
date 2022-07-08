@@ -21,5 +21,8 @@ Because I started to learn rust a few days ago, I have read  chapter 2.8 in [*Ru
 ### 2022/07/05
 - [x] rustlings 41/84
 ### 2022/07/07
-- [x] rustling 80/84
+- [x] rustlings 80/84
 I plan to complete rustlings this week and start risc-v next week.
+### 2022/07/08
+- [x] rustlings ✅
+- [x] os lab 0-0
