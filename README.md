@@ -27,3 +27,5 @@ I plan to complete rustlings this week and start risc-v next week.
 - [x] rustlings ✅
 - [x] os lab 0-0
 I have started reading [rCore-Tutorial-Book-v3](https://rcore-os.github.io/rCore-Tutorial-Book-v3/)
+### 2022/07/09
+- [x] lab1 ✅
